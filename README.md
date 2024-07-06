@@ -25,3 +25,7 @@ The objectives of the project are:
 parameters.
 3) To provide an effective solution to the existence problem related to the greenhouse
 control system technology by applying tools and techniques of problem solving.
+
+![Screenshot (29)](https://github.com/shreyapungaonkar/IoT-based-greenhouse-monitoring-system-using-cisco-packet-tracer/assets/120347728/a5d62783-d846-4e23-8560-b1a4ac7fa428)
+
+
